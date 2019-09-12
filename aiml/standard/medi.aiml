@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+
+<meta name="author" content="Thomas Ringate"/>
+<meta name="language" content="en"/>
+
+
+
+<category>
+<pattern>WHAT IS BACTERIA</pattern>
+<template>
+Bacteria is an unicellular organism which is responsible for illnesses such as strep throat, urinary tract infections and tuberculosis
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS BACTERIA?</pattern>
+<template>
+Bacteria is an unicellular organism which is responsible for illnesses such as strep throat, urinary tract infections and tuberculosis
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S BACTERIA?</pattern>
+<template>
+Bacteria is an unicellular organism which is responsible for illnesses such as strep throat, urinary tract infections and tuberculosis
+</template>
+</category>
+
+<category>
+<pattern>DEFINE BACTERIA?</pattern>
+<template>
+Bacteria is an unicellular organism which is responsible for illnesses such as strep throat, urinary tract infections and tuberculosis
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS VIRUS</pattern>
+<template>
+Viruses are even smaller than bacteria, viruses cause a multitude of diseases ranging from the common cold to AIDS.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS VIRUS?</pattern>
+<template>
+Viruses are even smaller than bacteria, viruses cause a multitude of diseases ranging from the common cold to AIDS.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE VIRUS</pattern>
+<template>
+Viruses are even smaller than bacteria, viruses cause a multitude of diseases ranging from the common cold to AIDS.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S VIRUS?</pattern>
+<template>
+Viruses are even smaller than bacteria, viruses cause a multitude of diseases ranging from the common cold to AIDS.
+</template>
+</category>
+
+<category>
+<pattern>VIRUS?</pattern>
+<template>
+Viruses are even smaller than bacteria, viruses cause a multitude of diseases ranging from the common cold to AIDS.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS FUNGI?</pattern>
+<template>
+ Many skin diseases, such as ringworm and athlete's foot, are caused by fungi. Other types of fungi can infect your lungs or nervous system.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S FUNGI?</pattern>
+<template>
+ Many skin diseases, such as ringworm and athlete's foot, are caused by fungi. Other types of fungi can infect your lungs or nervous system.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE FUNGI</pattern>
+<template>
+ Many skin diseases, such as ringworm and athlete's foot, are caused by fungi. Other types of fungi can infect your lungs or nervous system.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS PARASITE?</pattern>
+<template>
+ Parasites are microscopic organisms that live on other organisms. Malaria is caused by a tiny parasite that is transmitted by a mosquito bite. Other parasites may be transmitted to humans from animal feces
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S PARASITE?</pattern>
+<template>
+ Parasites are microscopic organisms that live on other organisms. Malaria is caused by a tiny parasite that is transmitted by a mosquito bite. Other parasites may be transmitted to humans from animal feces
+</template>
+</category>
+
+<category>
+<pattern>DEFINE PARASITE?</pattern>
+<template>
+ Parasites are microscopic organisms that live on other organisms. Malaria is caused by a tiny parasite that is transmitted by a mosquito bite. Other parasites may be transmitted to humans from animal feces
+</template>
+</category>
+
+<category>
+<pattern>PARASITE?</pattern>
+<template>
+ Parasites are microscopic organisms that live on other organisms. Malaria is caused by a tiny parasite that is transmitted by a mosquito bite. Other parasites may be transmitted to humans from animal feces
+</template>
+</category>
+
+<category>
+<pattern>AMOEBA?</pattern>
+<template>
+ Amoeba, often called amoeboid, is a type of cell or unicellular organism which has the ability to alter its shape, primarily by extending and retracting pseudopods.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS AMOEBA?</pattern>
+<template>
+ Amoeba, often called amoeboid, is a type of cell or unicellular organism which has the ability to alter its shape, primarily by extending and retracting pseudopods.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE AMOEBA?</pattern>
+<template>
+ Amoeba, often called amoeboid, is a type of cell or unicellular organism which has the ability to alter its shape, primarily by extending and retracting pseudopods.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S AMOEBA?</pattern>
+<template>
+ Amoeba, often called amoeboid, is a type of cell or unicellular organism which has the ability to alter its shape, primarily by extending and retracting pseudopods.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS AN ALLERGY?</pattern>
+<template>
+ An allergy is an exaggerated reaction by the immune system in response to exposure to certain foreign substances. The response is exaggerated because these foreign substances are normally seen as harmless by the immune system in nonallergic individuals and do not cause a response in them.
+</template>
+</category>
+
+<category>
+<pattern>ALLERGY?</pattern>
+<template>
+ An allergy is an exaggerated reaction by the immune system in response to exposure to certain foreign substances. The response is exaggerated because these foreign substances are normally seen as harmless by the immune system in nonallergic individuals and do not cause a response in them.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE ALLERGY?</pattern>
+<template>
+ An allergy is an exaggerated reaction by the immune system in response to exposure to certain foreign substances. The response is exaggerated because these foreign substances are normally seen as harmless by the immune system in nonallergic individuals and do not cause a response in them.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S ALLERGY?</pattern>
+<template>
+An allergy is an exaggerated reaction by the immune system in response to exposure to certain foreign substances. The response is exaggerated because these foreign substances are normally seen as harmless by the immune system in nonallergic individuals and do not cause a response in them.
+</template>
+</category>
+
+<category>
+<pattern>HOW TO RECOGNIZE ALLERGY?</pattern>
+<template>
+In allergic individuals, the body recognizes the substance as foreign, and the allergic part of the immune system generates a response.
+</template>
+</category>
+
+<category>
+<pattern>WHAT ARE THE SYMPTOMS OF ALLERGY?</pattern>
+<template>
+In allergic individuals, the body recognizes the substance as foreign, and the allergic part of the immune system generates a response.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS COMMON COLD?</pattern>
+<template>
+The common cold is a self-limited contagious disease that can be caused by a number of different types of viruses. The common cold is medically referred to as a viral upper respiratory tract infection. Symptoms of the common cold may include cough, sore throat, low-grade fever, nasal congestion, runny nose, and sneezing. 
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S COMMON COLD?</pattern>
+<template>
+The common cold is a self-limited contagious disease that can be caused by a number of different types of viruses. The common cold is medically referred to as a viral upper respiratory tract infection. Symptoms of the common cold may include cough, sore throat, low-grade fever, nasal congestion, runny nose, and sneezing. 
+</template>
+</category>
+
+<category>
+<pattern>DEFINE COMMON COLD?</pattern>
+<template>
+The common cold is a self-limited contagious disease that can be caused by a number of different types of viruses. The common cold is medically referred to as a viral upper respiratory tract infection. Symptoms of the common cold may include cough, sore throat, low-grade fever, nasal congestion, runny nose, and sneezing. 
+</template>
+</category>
+
+<category>
+<pattern>COMMON COLD</pattern>
+<template>
+The common cold is a self-limited contagious disease that can be caused by a number of different types of viruses. The common cold is medically referred to as a viral upper respiratory tract infection. Symptoms of the common cold may include cough, sore throat, low-grade fever, nasal congestion, runny nose, and sneezing. 
+</template>
+</category>
+
+
+<category>
+<pattern>WHAT'S SCHIZOPHRENIA?</pattern>
+<template>
+Schizophrenia is one of the psychotic mental disorders and is characterized by symptoms of thought, behavior, and social problems. The thought problems associated with schizophrenia are described as psychosis, in that the person's thinking is completely out of touch with reality at times.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE SCHIZOPHRENIA?</pattern>
+<template>
+Schizophrenia is one of the psychotic mental disorders and is characterized by symptoms of thought, behavior, and social problems. The thought problems associated with schizophrenia are described as psychosis, in that the person's thinking is completely out of touch with reality at times.
+</template>
+</category>
+
+ <category>
+<pattern>SCHIZOPHRENIA</pattern>
+<template>
+Schizophrenia is one of the psychotic mental disorders and is characterized by symptoms of thought, behavior, and social problems. The thought problems associated with schizophrenia are described as psychosis, in that the person's thinking is completely out of touch with reality at times.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS APPENDICITIS?</pattern>
+<template>
+Appendicitis means inflammation of the appendix. It is thought that appendicitis begins when the opening from the appendix into the cecum becomes blocked.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S APPENDICITIS?</pattern>
+<template>
+Appendicitis means inflammation of the appendix. It is thought that appendicitis begins when the opening from the appendix into the cecum becomes blocked.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE APPENDICITIS?</pattern>
+<template>
+Appendicitis means inflammation of the appendix. It is thought that appendicitis begins when the opening from the appendix into the cecum becomes blocked.
+</template>
+</category>
+
+<category>
+<pattern> APPENDICITIS</pattern>
+<template>
+Appendicitis means inflammation of the appendix. It is thought that appendicitis begins when the opening from the appendix into the cecum becomes blocked.
+</template>
+</category>
+
+<category>
+<pattern>WHAT CAUSES APPENDICITIS?</pattern>
+<template>
+The blockage may be due to a build-up of thick mucus within the appendix or to stool that enters the appendix from the cecum.
+</template>
+</category>
+
+<category>
+<pattern>CAUSES OF APPENDICITIS?</pattern>
+<template>
+The blockage may be due to a build-up of thick mucus within the appendix or to stool that enters the appendix from the cecum.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS CANCER?</pattern>
+<template>
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S CANCER?</pattern>
+<template>
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.
+</template>
+</category>
+
+<category>
+<pattern>CANCER?</pattern>
+<template>
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE CANCER?</pattern>
+<template>
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS MALARIA?</pattern>
+<template>
+Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick, with a high fever and shaking chills.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S MALARIA?</pattern>
+<template>
+Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick, with a high fever and shaking chills.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE MALARIA?</pattern>
+<template>
+Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick, with a high fever and shaking chills.
+</template>
+</category>
+
+<category>
+<pattern>MALARIA?</pattern>
+<template>
+Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick, with a high fever and shaking chills.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS RABIES?</pattern>
+<template>
+A deadly virus spread to people from the saliva of infected animals. Rabies is usually transmitted through an animal bite, for example, from stray dogs.
+</template>
+</category>
+
+
+<category>
+<pattern>WHAT'S RABIES?</pattern>
+<template>
+A deadly virus spread to people from the saliva of infected animals. Rabies is usually transmitted through an animal bite, for example, from stray dogs.
+</template>
+</category>
+
+
+<category>
+<pattern>RABIES?</pattern>
+<template>
+A deadly virus spread to people from the saliva of infected animals. Rabies is usually transmitted through an animal bite, for example, from stray dogs.
+</template>
+</category>
+
+
+<category>
+<pattern>DEFINE RABIES?</pattern>
+<template>
+A deadly virus spread to people from the saliva of infected animals. Rabies is usually transmitted through an animal bite, for example, from stray dogs.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR RABIES?</pattern>
+<template>
+Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR RABIES</pattern>
+<template>
+Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity.
+</template>
+</category>
+
+
+<category>
+<pattern>RABIES SYMPTOMS?</pattern>
+<template>
+Fever,Headache,Nausea,Vomiting,Agitation,Anxiety,Confusion,Hyperactivity.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR MALARIA?</pattern>
+<template>
+•shaking chills that can range from moderate to severe.
+•high fever.
+•profuse sweating.
+•headache.
+•nausea.
+•vomiting.
+•abdominal pain.
+•diarrhea.
+</template>
+</category>
+
+
+<category>
+<pattern> MALARIA SYMPTOMS?</pattern>
+<template>
+•shaking chills that can range from moderate to severe.
+•high fever.
+•profuse sweating.
+•headache.
+•nausea.
+•vomiting.
+•abdominal pain.
+•diarrhea.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS OF MALARIA?</pattern>
+<template>
+•shaking chills that can range from moderate to severe.
+•high fever.
+•profuse sweating.
+•headache.
+•nausea.
+•vomiting.
+•abdominal pain.
+•diarrhea.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR CANCER?</pattern>
+<template>
+•Blood in the urine.
+•Hoarseness. 
+•Persistent lumps or swollen glands. 
+•Obvious change in a wart or a mole. 
+•Indigestion or difficulty swallowing. 
+•Unusual vaginal bleeding or discharge. 
+•Unexpected weight loss, night sweats, or fever. 
+•Continued itching in the anal or genital area.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS OF CANCER?</pattern>
+<template>
+•Blood in the urine.
+•Hoarseness. 
+•Persistent lumps or swollen glands. 
+•Obvious change in a wart or a mole. 
+•Indigestion or difficulty swallowing. 
+•Unusual vaginal bleeding or discharge. 
+•Unexpected weight loss, night sweats, or fever. 
+•Continued itching in the anal or genital area.
+</template>
+</category>
+
+
+<category>
+<pattern>CANCER SYMPTOMS?</pattern>
+<template>
+•Blood in the urine.
+•Hoarseness. 
+•Persistent lumps or swollen glands. 
+•Obvious change in a wart or a mole. 
+•Indigestion or difficulty swallowing. 
+•Unusual vaginal bleeding or discharge. 
+•Unexpected weight loss, night sweats, or fever. 
+•Continued itching in the anal or genital area.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR CANCER?</pattern>
+<template>
+•Blood in the urine.
+•Hoarseness. 
+•Persistent lumps or swollen glands. 
+•Obvious change in a wart or a mole. 
+•Indigestion or difficulty swallowing. 
+•Unusual vaginal bleeding or discharge. 
+•Unexpected weight loss, night sweats, or fever. 
+•Continued itching in the anal or genital area.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR APPENDICITIS?</pattern>
+<template>
+•Dull pain near the navel or the upper abdomen that becomes sharp as it moves to the lower right abdomen. ...
+•Loss of appetite.
+•Nausea and/or vomiting soon after abdominal pain begins.
+•Abdominal swelling.
+•Fever of 99-102 degrees Fahrenheit.
+•Inability to pass gas.
+</template>
+</category>
+
+<category>
+<pattern>SYMPTOMS OF APPENDICITIS?</pattern>
+<template>
+•Dull pain near the navel or the upper abdomen that becomes sharp as it moves to the lower right abdomen. ...
+•Loss of appetite.
+•Nausea and/or vomiting soon after abdominal pain begins.
+•Abdominal swelling.
+•Fever of 99-102 degrees Fahrenheit.
+•Inability to pass gas.
+</template>
+</category>
+
+<category>
+<pattern>APPENDICITIS SYMPTOMS?</pattern>
+<template>
+•Dull pain near the navel or the upper abdomen that becomes sharp as it moves to the lower right abdomen. ...
+•Loss of appetite.
+•Nausea and/or vomiting soon after abdominal pain begins.
+•Abdominal swelling.
+•Fever of 99-102 degrees Fahrenheit.
+•Inability to pass gas.
+</template>
+</category>
+
+<category>
+<pattern>SYMPTOMS OF SCHIZOPHRENIA?</pattern>
+<template>
+Schizophrenia involves a range of problems with thinking (cognition), behavior or emotions. Signs and symptoms may vary, but usually involve delusions, hallucinations or disorganized speech, and reflect an impaired ability to function. 
+Suicidal ideation and psychosis.
+</template>
+</category>
+
+
+<category>
+<pattern>SYMPTOMS FOR SCHIZOPHRENIA?</pattern>
+<template>
+Schizophrenia involves a range of problems with thinking (cognition), behavior or emotions. Signs and symptoms may vary, but usually involve delusions, hallucinations or disorganized speech, and reflect an impaired ability to function. 
+Suicidal ideation and psychosis.
+</template>
+</category>
+
+
+<category>
+<pattern> SCHIZOPHRENIA SYMPTOMS?</pattern>
+<template>
+Schizophrenia involves a range of problems with thinking (cognition), behavior or emotions. Signs and symptoms may vary, but usually involve delusions, hallucinations or disorganized speech, and reflect an impaired ability to function. 
+Suicidal ideation and psychosis.
+</template>
+</category>
+
+
+
+<category>
+<pattern>SYMPTOMS OF COMMON COLD?</pattern>
+<template>
+•Runny or stuffy nose.
+•Sore throat.
+•Cough.
+•Congestion.
+•Slight body aches or a mild headache.
+•Sneezing.
+•Low-grade fever.
+•Generally feeling unwell (malaise)
+</template>
+</category>
+
+<category>
+<pattern>SYMPTOMS FOR COMMON COLD?</pattern>
+<template>
+•Runny or stuffy nose.
+•Sore throat.
+•Cough.
+•Congestion.
+•Slight body aches or a mild headache.
+•Sneezing.
+•Low-grade fever.
+•Generally feeling unwell (malaise)
+</template>
+</category>
+
+<category>
+<pattern>COMMONCOLD SYMPTOMS?</pattern>
+<template>
+•Runny or stuffy nose.
+•Sore throat.
+•Cough.
+•Congestion.
+•Slight body aches or a mild headache.
+•Sneezing.
+•Low-grade fever.
+•Generally feeling unwell (malaise)
+</template>
+</category>
+
+<category>
+<pattern>SYMPTOMS OF ALLERGY?</pattern>
+<template>
+•sneezing and an itchy, runny or blocked nose (allergic rhinitis)
+•itchy, red, watering eyes (conjunctivitis)
+•wheezing, chest tightness, shortness of breath and a cough.
+•a raised, itchy, red rash (hives)
+•swollen lips, tongue, eyes or face.
+</template>
+</category>
+
+<category>
+<pattern>SYMPTOMS FOR ALLERGY?</pattern>
+<template>
+•sneezing and an itchy, runny or blocked nose (allergic rhinitis)
+•itchy, red, watering eyes (conjunctivitis)
+•wheezing, chest tightness, shortness of breath and a cough.
+•a raised, itchy, red rash (hives)
+•swollen lips, tongue, eyes or face.
+</template>
+</category>
+
+<category>
+<pattern>ALLERGY SYMPTOMS?</pattern>
+<template>
+•sneezing and an itchy, runny or blocked nose (allergic rhinitis)
+•itchy, red, watering eyes (conjunctivitis)
+•wheezing, chest tightness, shortness of breath and a cough.
+•a raised, itchy, red rash (hives)
+•swollen lips, tongue, eyes or face.
+</template>
+</category>
+
+<category>
+<pattern>STROKE?</pattern>
+<template>
+A stroke occurs when an artery in your brain is blocked or leaks. This causes the
+oxygen-deprived brain cells to begin dying within minutes. During a stroke, you
+feel sudden numbness and confusion or have trouble walking and seeing. If left
+untreated, a stroke can cause long-term disability.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS STROKE?</pattern>
+<template>
+A stroke occurs when an artery in your brain is blocked or leaks. This causes the
+oxygen-deprived brain cells to begin dying within minutes. During a stroke, you
+feel sudden numbness and confusion or have trouble walking and seeing. If left
+untreated, a stroke can cause long-term disability.
+</template>
+</category>
+
+<category>
+<pattern>DEFINE STROKE?</pattern>
+<template>
+A stroke occurs when an artery in your brain is blocked or leaks. This causes the
+oxygen-deprived brain cells to begin dying within minutes. During a stroke, you
+feel sudden numbness and confusion or have trouble walking and seeing. If left
+untreated, a stroke can cause long-term disability.
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S STROKE?</pattern>
+<template>
+A stroke occurs when an artery in your brain is blocked or leaks. This causes the
+oxygen-deprived brain cells to begin dying within minutes. During a stroke, you
+feel sudden numbness and confusion or have trouble walking and seeing. If left
+untreated, a stroke can cause long-term disability.
+</template>
+</category>
+
+<category>
+<pattern>HEY VISION. I HAVE A PROBLEM</pattern>
+<template>
+hello boss.I think I was made for that. How can I help you?
+</template>
+</category>
+
+
+<category>
+<pattern>HEY VISION</pattern>
+<template>
+hello boss.. How can I help you?
+</template>
+</category>
+
+
+<category>
+<pattern>I FEEL LIKE VOMITING ALONG WITH HIGH FEVER </pattern>
+<template>
+do you also feel severe abdominal pain??
+</template>
+</category>
+
+
+<category>
+<pattern>YEAH I HAVE ABDOMINAL PAIN</pattern>
+<template>
+if you also suffer with diarrhea, then it might the symptom of MALARIA. Consult a Doctor soon!!!
+</template>
+</category>
+
+<category>
+<pattern>WHAT'S YOUR NAME</pattern>
+<template>
+my name is VISION. I am a superbot.
+</template>
+</category>
+
+
+<category>
+<pattern>HI BUDDY </pattern>
+<template>
+hi boss..
+</template>
+</category>
+
+
+<category>
+<pattern>WHAT CAN I CALL YOU?</pattern>
+<template>
+you can call me as VISION. That's my name
+</template>
+</category>
+
+</aiml>
